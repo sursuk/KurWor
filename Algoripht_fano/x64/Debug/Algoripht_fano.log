@@ -1,0 +1,5 @@
+﻿  algoritpht_fano.cpp
+  console.cpp
+  Создание кода...
+D:\учеба\3 семестр\Курсовой проект\Algoripht_fano — копия\Algoripht_fano\console.cpp(62): warning C4715: Console::input_command: значение возвращается не при всех путях выполнения
+  Algoripht_fano.vcxproj -> D:\учеба\3 семестр\Курсовой проект\Algoripht_fano — копия\x64\Debug\Algoripht_fano.exe
